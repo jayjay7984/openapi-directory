@@ -12,7 +12,7 @@
     "json-merge-patch": "^0.2.3",
     "json-pointer": "^0.6.0",
     "json-refs": "git+https://github.com/whitlockjc/json-refs.git",
-    "jsondiffpatch": "^0.1.33",
+    "jsondiffpatch": "^0.4.1",
     "jsonpath": "^1.0.0",
     "lodash": "^4.17.11",
     "makeRequest": "github:apis-guru/makeRequest",
