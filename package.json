@@ -10,7 +10,7 @@
     "jiff": "^0.7.3",
     "js-yaml": "^3.12.1",
     "json-merge-patch": "^0.2.3",
-    "json-pointer": "^0.6.0",
+    "json-pointer": "^0.6.2",
     "json-refs": "git+https://github.com/whitlockjc/json-refs.git",
     "jsondiffpatch": "^0.1.33",
     "jsonpath": "^1.0.0",
